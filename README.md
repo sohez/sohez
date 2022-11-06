@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**sohez/sohez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 
+```
+{
+  "name" : "Anjali Gupta",
+  "pronouns" : "she/her",
+  "school" : "university of waterloo",
+  "program" : "computer science co-op",
+  "year" : "third year",
+  "job-searching" : true,
+  "prev-experience" : ["PointClickCare", "University of Waterloo", "WSIB Innovation Lab"],
+  "goal" : "to create software that helps the world"
+}
+```
 
-Here are some ideas to get you started:
+### GitHub Stats 
+![Sohez's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohez)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohez&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to Reach Me
+- WEB: https://sohez.github.io/
