@@ -3,14 +3,11 @@
 ### About Me 
 ```
 {
-  "name" : "Anjali Gupta",
-  "pronouns" : "she/her",
-  "school" : "university of waterloo",
-  "program" : "computer science co-op",
-  "year" : "third year",
-  "job-searching" : true,
-  "prev-experience" : ["PointClickCare", "University of Waterloo", "WSIB Innovation Lab"],
-  "goal" : "to create software that helps the world"
+  "name" : "SOHEL SAYYED",
+  "collage" : "RSML",
+  "program" : "B.VOC CT",
+  "year" : "second year",
+  "job-searching" : false,
 }
 ```
 
