@@ -6,8 +6,8 @@
   "name" : "SOHEL SAYYED",
   "collage" : "RSML",
   "program" : "B.VOC CT",
-  "year" : "second year",
-  "job-searching" : false,
+  "year" : "Final year",
+  "job-searching" : null,
 }
 ```
 
