@@ -7,7 +7,7 @@
   "collage" : "RSML",
   "program" : "B.VOC CT",
   "year" : "Final year",
-  "job-searching" : null,
+  "job-searching" : null
 }
 ```
 
