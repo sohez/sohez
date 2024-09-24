@@ -4,9 +4,9 @@
 ```
 {
   "name" : "SOHEL SAYYED",
-  "collage" : "RSML",
-  "program" : "B.VOC CT",
-  "job-searching" : null
+  "currently" : "HYD",
+  "fav_language" : "kotlin",
+  "job-searching" : true
 }
 ```
 
