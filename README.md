@@ -3,10 +3,12 @@
 ### About Me 
 ```
 {
-  "name" : "SOHEL SAYYED",
-  "currently" : "HYD",
-  "fav_language" : "kotlin",
-  "job-searching" : true
+  "name": "SOHEL SAYYED",
+  "about": "My name is Sayyed Sohel. I am a website designer and Android developer."
+  "currently": "HYD",
+  "job-searching": true,
+  "languages": ["kotlin", "java", "js", "php", "nodeJS"],
+  "tools": ["Android Studio", "Git", "GitHub", "VS Code/Eclips/intellij IDE", "Bootstrap", "NextJS"]
 }
 ```
 
