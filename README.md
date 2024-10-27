@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:eddff7,100:eddff7&text=Hello,%20I'tz%20me%20Sohez&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=9403fc)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:eddff7,100:eddff7&text=Hello,%20It'z%20me%20Sohez&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=9403fc)
 
 <p align="center">I'm <b>SOHEL</b> from <strong><a href="https://www.google.com/search?q=Hyderabad">Hydrabad</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 <h3>Quick Links</h3>
