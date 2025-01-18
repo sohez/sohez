@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:eddff7,100:eddff7&text=Hello,%20It'z%20me%20Sohez&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=9403fc)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1d092b,100:320e4d&text=Hello,%20It'z%20me%20Sohel&textBg=false&desc=(sohez)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=9403fc)
 
 <p align="center">I'm <b>SOHEL</b> from <strong><a href="https://www.google.com/search?q=Hyderabad">Hydrabad</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 <h3>Quick Links</h3>
@@ -29,7 +29,7 @@
 - [X] 👨‍💻Job Searching
 
 
-<h2 id=lang>Skills</h2>
+<h2 id=lang>💻 Skills</h2>
 
 
 **Languages & Frameworks**
@@ -65,7 +65,7 @@
 </p>
 <!-- <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="" style="border-radius: 5px; height: 30px;"> -->
 
-<h2 align="center">📈 My Github Stats! </h2>
+<h2>📈 My Github Stats </h2>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sohez&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
@@ -75,7 +75,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohez&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
 </div>  
 
-### Profile views
+<h2>🔥 Profile views </h2>
+
 <div align="center">
 
 ![Profile views](https://count.getloli.com/get/@Sohez?theme=rule34)
