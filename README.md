@@ -7,7 +7,7 @@
 <div align="left">
     <a href="https://t.me/Mr_Linux_user"><img src="https://img.shields.io/badge/@Mr_Linux_user-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
     <a href="mailto:techsohez@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="" srcset=""></a>
-    <a href="https://www.instagram.com/sohel_code.py/"><img src="https://img.shields.io/badge/@sohel_code.py-30302f?style=flat-square&logo=instagram" alt="" srcset=""></a>
+    <a href="https://www.instagram.com/sohel_sayyed.dev/"><img src="https://img.shields.io/badge/@sohel_code.py-30302f?style=flat-square&logo=instagram" alt="" srcset=""></a>
 </div>
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -18,7 +18,7 @@
     <li>🔭 I’m currently learning <b>Java</b> and you can find the stuffs I made <a href="https://sohez.github.io/#projects"><b>here</b></a></li>
     <li>🧐 Currently mastering <strong>Java</strong> and learning <strong>NodeJS</strong></li>
     <li>👨‍💻 Most of my projects are based on Android.</li>
-    <li>💬 I mostly use <strong><a href="https://www.instagram.com/sohel_code.py/" target="_blank" rel="noopener noreferrer">Instagram</a></strong>.</li>
+    <li>💬 I mostly use <strong><a href="https://www.instagram.com/sohel_sayyed.dev/" target="_blank" rel="noopener noreferrer" title="sohel_sayyed.dev">Instagram</a></strong>.</li>
 </ul>
 
 <h2>📌 Todo</h2>
@@ -53,10 +53,10 @@
 <h2>🖼 Profile Links</h2>
 <p>
     <a href="http://t.me/Mr_Linux_user" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
-    <a href="https://www.instagram.com/sohel_code.py/"><img src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+    <a href="https://www.instagram.com/sohel_sayyed.dev"><img src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
     <a href="https://wa.me/917887614788"><img src="https://img.shields.io/badge/whatsapp-1ED760?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="" srcset=""></a>
     <a href="https://twitter.com/sohel_codez"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt=""></a>
-    <a href="https://www.linkedin.com/in/sohel-sayyed-b7a106253"><img src="https://img.shields.io/badge/linkedin-1ED760?&style=for-the-badge&logo=linkedin&logoColor=white" alt="" srcset=""></a>
+    <a href="https://www.linkedin.com/in/sohez"><img src="https://img.shields.io/badge/linkedin-1ED760?&style=for-the-badge&logo=linkedin&logoColor=white" alt="" srcset=""></a>
 </p>
 
 <h2>☕️ Coffee? yes!</h2>
