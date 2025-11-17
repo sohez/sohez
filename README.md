@@ -20,7 +20,7 @@
   <a href="mailto:techsohez@gmail.com">
     <img src="https://img.shields.io/badge/Email-30302f?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.instagram.com/sohel_sayyed.dev/">
+  <a href="https://www.instagram.com/sohel_sayyed.0x/">
     <img src="https://img.shields.io/badge/Instagram-30302f?style=flat-square&logo=instagram" alt="Instagram">
   </a>
 </p>
@@ -31,7 +31,7 @@
 
 - 🔭 Currently learning **Java** & improving **Node.js**
 - 📱 Most of my work revolves around **Android Development**
-- 💬 Reach me fastest on [Instagram](https://www.instagram.com/sohel_sayyed.dev/)
+- 💬 Reach me fastest on [Instagram](https://www.instagram.com/sohel_sayyed.0x/)
 - 🛠 Building projects you can check out [here](https://sohez.github.io/#projects)
 
 ---
