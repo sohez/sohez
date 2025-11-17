@@ -65,7 +65,7 @@
 
 <p>
   <a href="http://t.me/Mr_Linux_user" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.instagram.com/sohel_sayyed.dev"><img src="https://img.shields.io/badge/Instagram-ff3366?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/sohel_sayyed.0x"><img src="https://img.shields.io/badge/Instagram-ff3366?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://wa.me/917887614788"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://twitter.com/sohel_codez"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sohez"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
