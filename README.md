@@ -29,8 +29,8 @@
 
 ## ⚡ About Me
 
-- 🔭 Currently learning **Java** & improving **Node.js**
-- 📱 Most of my work revolves around **Android Development**
+- 🔭 Currently improving **Node.js**
+- 📱 Most of my work revolves around **Full Stack Development**
 - 💬 Reach me fastest on [Instagram](https://www.instagram.com/sohel_sayyed.0x/)
 - 🛠 Building projects you can check out [here](https://sohez.github.io/#projects)
 
